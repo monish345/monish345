@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-# Hi there, I'm [Monish]! 👋
+# Hi there, I'm Monish! 👋
 
 ![Banner Image]()
 
 ## About Me 🚀
 
-I'm a passionate **[Cyber Security Engineer]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Cyber Security Engineer with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[new technologies or skills you're currently learning]**
 - 🔭 Working on: **[current projects or side-projects]**
